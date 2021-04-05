@@ -1,6 +1,6 @@
 
 <p align="center">
-  HTML | CSS | PHP
+  HTML | CSS | PHP | C
 </p>
 
 <p align="center">
