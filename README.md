@@ -1,9 +1,9 @@
 ## Hello there! What's up? I'm Marcos Jacometti
 
-<div display="block">
+<div>
   <a href="https://github.com/marcos-jacometti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-jacometti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-jacometti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" float="left" src="https://github-readme-stats.vercel.app/api?username=marcos-jacometti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-jacometti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
